@@ -1,6 +1,6 @@
 # Kicks-Shoe 👟
 
-<li>Bu proje admin paneli,kullanıcı arayüzü ile tasarlanmış ayakkabı e-ticaret sitesidir.</li>
+<li>Bu proje admin paneli ve kullanıcı arayüzü ile tasarlanmış ayakkabı e-ticaret sitesidir.</li>
 <li>Herbir ayakkabı ürünü için detay özelliği eklenmiştir.</li>
 <li>Kullanıcı girişi yapma,yeni hesap için üye olma panelleri mevcuttur.</li>
 <li>Admin paneli sayesinde yeni ürün ekleme,düzenleme,silme özelliği entegre edilmiştir.</li>
